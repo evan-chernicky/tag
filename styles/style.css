@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .hero__content {
     position: absolute;
     z-index: 4;
